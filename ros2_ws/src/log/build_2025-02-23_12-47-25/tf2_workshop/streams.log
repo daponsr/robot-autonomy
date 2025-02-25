@@ -1,0 +1,37 @@
+[2.055s] Invoking command in '/home/ubuntu/ros2_ws/src/tf2_workshop': PYTHONPATH=/home/ubuntu/ros2_ws/src/build/tf2_workshop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tf2_workshop build --build-base /home/ubuntu/ros2_ws/src/build/tf2_workshop/build install --record /home/ubuntu/ros2_ws/src/build/tf2_workshop/install.log --single-version-externally-managed install_data
+[2.614s] running egg_info
+[2.616s] creating ../build/tf2_workshop/tf2_workshop.egg-info
+[2.616s] writing ../build/tf2_workshop/tf2_workshop.egg-info/PKG-INFO
+[2.619s] writing dependency_links to ../build/tf2_workshop/tf2_workshop.egg-info/dependency_links.txt
+[2.619s] writing entry points to ../build/tf2_workshop/tf2_workshop.egg-info/entry_points.txt
+[2.620s] writing requirements to ../build/tf2_workshop/tf2_workshop.egg-info/requires.txt
+[2.620s] writing top-level names to ../build/tf2_workshop/tf2_workshop.egg-info/top_level.txt
+[2.620s] writing manifest file '../build/tf2_workshop/tf2_workshop.egg-info/SOURCES.txt'
+[2.623s] reading manifest file '../build/tf2_workshop/tf2_workshop.egg-info/SOURCES.txt'
+[2.625s] writing manifest file '../build/tf2_workshop/tf2_workshop.egg-info/SOURCES.txt'
+[2.625s] running build
+[2.626s] running build_py
+[2.626s] creating /home/ubuntu/ros2_ws/src/build/tf2_workshop/build
+[2.626s] creating /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib
+[2.626s] creating /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop
+[2.626s] copying tf2_workshop/broadcaster.py -> /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop
+[2.627s] copying tf2_workshop/__init__.py -> /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop
+[2.627s] running install
+[2.627s] running install_lib
+[2.629s] creating /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop
+[2.629s] copying /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop/broadcaster.py -> /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop
+[2.629s] copying /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop/__init__.py -> /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop
+[2.630s] byte-compiling /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop/broadcaster.py to broadcaster.cpython-310.pyc
+[2.632s] byte-compiling /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop/__init__.py to __init__.cpython-310.pyc
+[2.632s] running install_data
+[2.632s] creating /home/ubuntu/ros2_ws/src/install/tf2_workshop/share/ament_index
+[2.633s] creating /home/ubuntu/ros2_ws/src/install/tf2_workshop/share/ament_index/resource_index
+[2.633s] creating /home/ubuntu/ros2_ws/src/install/tf2_workshop/share/ament_index/resource_index/packages
+[2.633s] copying resource/tf2_workshop -> /home/ubuntu/ros2_ws/src/install/tf2_workshop/share/ament_index/resource_index/packages
+[2.633s] copying package.xml -> /home/ubuntu/ros2_ws/src/install/tf2_workshop/share/tf2_workshop
+[2.633s] running install_egg_info
+[2.637s] Copying ../build/tf2_workshop/tf2_workshop.egg-info to /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop-0.0.0-py3.10.egg-info
+[2.639s] running install_scripts
+[2.687s] Installing broadcaster script to /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/tf2_workshop
+[2.688s] writing list of installed files to '/home/ubuntu/ros2_ws/src/build/tf2_workshop/install.log'
+[2.762s] Invoked command in '/home/ubuntu/ros2_ws/src/tf2_workshop' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/src/build/tf2_workshop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tf2_workshop build --build-base /home/ubuntu/ros2_ws/src/build/tf2_workshop/build install --record /home/ubuntu/ros2_ws/src/build/tf2_workshop/install.log --single-version-externally-managed install_data

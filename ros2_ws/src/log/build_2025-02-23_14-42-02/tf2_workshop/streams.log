@@ -1,0 +1,27 @@
+[1.453s] Invoking command in '/home/ubuntu/ros2_ws/src/tf2_workshop': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/src/install/turtlesim:/home/ubuntu/ros2_ws/install/turtlesim LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/src/install/turtlesim/lib:/home/ubuntu/ros2_ws/install/turtlesim/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/ubuntu/ros2_ws/src/build/tf2_workshop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tf2_workshop build --build-base /home/ubuntu/ros2_ws/src/build/tf2_workshop/build install --record /home/ubuntu/ros2_ws/src/build/tf2_workshop/install.log --single-version-externally-managed install_data
+[1.954s] running egg_info
+[1.956s] writing ../build/tf2_workshop/tf2_workshop.egg-info/PKG-INFO
+[1.957s] writing dependency_links to ../build/tf2_workshop/tf2_workshop.egg-info/dependency_links.txt
+[1.957s] writing entry points to ../build/tf2_workshop/tf2_workshop.egg-info/entry_points.txt
+[1.957s] writing requirements to ../build/tf2_workshop/tf2_workshop.egg-info/requires.txt
+[1.957s] writing top-level names to ../build/tf2_workshop/tf2_workshop.egg-info/top_level.txt
+[1.962s] reading manifest file '../build/tf2_workshop/tf2_workshop.egg-info/SOURCES.txt'
+[1.965s] writing manifest file '../build/tf2_workshop/tf2_workshop.egg-info/SOURCES.txt'
+[1.965s] running build
+[1.966s] running build_py
+[1.966s] copying tf2_workshop/listener.py -> /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop
+[1.966s] copying tf2_workshop/broadcaster.py -> /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop
+[1.966s] running install
+[1.966s] running install_lib
+[1.967s] copying /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop/listener.py -> /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop
+[1.968s] copying /home/ubuntu/ros2_ws/src/build/tf2_workshop/build/lib/tf2_workshop/broadcaster.py -> /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop
+[1.969s] byte-compiling /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop/listener.py to listener.cpython-310.pyc
+[1.970s] byte-compiling /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop/broadcaster.py to broadcaster.cpython-310.pyc
+[1.971s] running install_data
+[1.971s] running install_egg_info
+[1.974s] removing '/home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop-0.0.0-py3.10.egg-info' (and everything under it)
+[1.974s] Copying ../build/tf2_workshop/tf2_workshop.egg-info to /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages/tf2_workshop-0.0.0-py3.10.egg-info
+[1.977s] running install_scripts
+[2.014s] Installing broadcaster script to /home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/tf2_workshop
+[2.014s] writing list of installed files to '/home/ubuntu/ros2_ws/src/build/tf2_workshop/install.log'
+[2.066s] Invoked command in '/home/ubuntu/ros2_ws/src/tf2_workshop' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/src/install/turtlesim:/home/ubuntu/ros2_ws/install/turtlesim LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/src/install/turtlesim/lib:/home/ubuntu/ros2_ws/install/turtlesim/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/ubuntu/ros2_ws/src/build/tf2_workshop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/src/install/tf2_workshop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tf2_workshop build --build-base /home/ubuntu/ros2_ws/src/build/tf2_workshop/build install --record /home/ubuntu/ros2_ws/src/build/tf2_workshop/install.log --single-version-externally-managed install_data

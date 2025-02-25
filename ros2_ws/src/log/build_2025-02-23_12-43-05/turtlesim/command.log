@@ -1,0 +1,4 @@
+Invoking command in '/home/ubuntu/ros2_ws/src/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/src/build/turtlesim -- -j16 -l16
+Invoked command in '/home/ubuntu/ros2_ws/src/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/src/build/turtlesim -- -j16 -l16
+Invoking command in '/home/ubuntu/ros2_ws/src/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/src/build/turtlesim
+Invoked command in '/home/ubuntu/ros2_ws/src/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/src/build/turtlesim
